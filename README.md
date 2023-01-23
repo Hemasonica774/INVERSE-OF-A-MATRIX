@@ -41,7 +41,10 @@ print(B)
 ```
 
 ## Output:
-![](./inverse%20of%20matric.png)
+
+![Screenshot (84)](https://user-images.githubusercontent.com/118361409/214040999-13291070-9575-4ee2-9dc0-b6c3515bc9d3.png)
+
+
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
 
